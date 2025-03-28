@@ -1,4 +1,4 @@
-# Cricket-Player-Stats 🏏
+# 🏏 Cricket-Player-Stats 
 
 ## Overview  
 This project is a **web-based application** built using **Hugging Face, Streamlit, and Python** to analyze and visualize cricket player statistics. It provides an interactive dashboard where users can select a **country** and a **player** from dropdown menus to view their batting and bowling statistics across all formats of cricket.  
